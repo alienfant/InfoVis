@@ -10,6 +10,7 @@ Information Visualisation project 062014
 
 <body>
 <p> Let's choose a dataset and use this environment to create some visualisations!  </p>
+<p> Lioni: I agree Rina! </p>
 <script>
 
 // All the JS code on the exercise
